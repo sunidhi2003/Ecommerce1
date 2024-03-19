@@ -5,7 +5,7 @@
         "trendTitle": "Lorem ipsum dolor",
         "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate ratione sint, minima itaque maxime facilis necessitatibus aliquam veritatis, possimus sapiente esse aspernatur atque harum laboriosam consequatur quam pariatur, doloremque expedita.",
         "price": 309.99,
-        "image": "./ass/images/product1.png",
+        "image": "./ass/images/product11.png",
         "isNew": true,
         "isTrending": false,
         "category": "men"
@@ -27,7 +27,7 @@
         "trendTitle": "Lorem ipsum dolor",
         "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate ratione sint, minima itaque maxime facilis necessitatibus aliquam veritatis, possimus sapiente esse aspernatur atque harum laboriosam consequatur quam pariatur, doloremque expedita.",
         "price": 175.5,
-        "image": "./ass/images/product3.png",
+        "image": "./ass/images/product4.png",
         "isNew": true,
         "isTrending": false,
         "category": "women"
@@ -38,7 +38,7 @@
         "trendTitle": "Lorem ipsum dolor",
         "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate ratione sint, minima itaque maxime facilis necessitatibus aliquam veritatis, possimus sapiente esse aspernatur atque harum laboriosam consequatur quam pariatur, doloremque expedita.",
         "price": 799.99,
-        "image": "./ass/images/product4.png",
+        "image": "./ass/images/product5.png",
         "isNew": true,
         "isTrending": false,
         "category": "men"
@@ -49,7 +49,7 @@
         "trendTitle": "Lorem ipsum dolor",
         "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate ratione sint, minima itaque maxime facilis necessitatibus aliquam veritatis, possimus sapiente esse aspernatur atque harum laboriosam consequatur quam pariatur, doloremque expedita.",
         "price": 29.99,
-        "image": "./ass/images/product5.png",
+        "image": "./ass/images/product6.png",
         "isNew": false,
         "isTrending": false,
         "category": "men"
